@@ -21,7 +21,7 @@ ORDER BY 2,1;
 
 
 Question 2
-Finally, provide a table with the family-friendly film category, each of the quartiles, and the corresponding count of movies within each combination of film category for each corresponding rental duration category. The resulting table should have three columns:
+Provide a table with the family-friendly film category, each of the quartiles, and the corresponding count of movies within each combination of film category for each corresponding rental duration category. The resulting table should have three columns:
 Category
 Rental length category
 Count
@@ -65,7 +65,7 @@ ORDER BY 2, 1;
 
 
 Question 4
-Finally, for each of these top 10 paying customers, I would like to find out the difference across their monthly payments during 2007. Please go ahead and write a query to compare the payment amounts in each successive month. Repeat this for each of these 10 paying customers. Also, it will be tremendously helpful if you can identify the customer name who paid the most difference in terms of payments.
+For each of these top 10 paying customers, we would like to find out the difference across their monthly payments during 2007. Write a query to compare the payment amounts in each successive month. Repeat this for each of these 10 paying customers. Also, it will be tremendously helpful if you can identify the customer name who paid the most difference in terms of payments.
 
 SOLUTION
 
